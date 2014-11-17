@@ -18,3 +18,7 @@ project's source directory.  This will install the following four files:
 
 REMAINING WORK ITEMS:
  * Extensive testing
+
+Update by Waitman Gobble 2014-11-16 <ns@waitman.net>
+1) update driver_current.patch for FreeBSD 11.0-Current (r274611)
+NOTE: driver_stable.patch is not modified, the original may or may not work
